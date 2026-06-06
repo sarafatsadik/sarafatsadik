@@ -1,16 +1,29 @@
-## Hi there 👋
+# Sarafat Sadik Sajeeb
 
+> Building, learning, and evolving through technology.
 
-**sarafatsadik/sarafatsadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I am a Computer Science student passionate about technology, innovation, and leadership.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My journey is focused on understanding how technology works, building useful solutions, and continuously improving myself.
 
+## 🚀 Currently
+
+- Learning Software Development
+- Exploring AI, Cybersecurity & Modern Technologies
+- Improving problem-solving skills
+- Building projects step by step
+
+## 💡 Philosophy
+
+Technology is not only about writing code —  
+it is about solving problems, creating value, and shaping the future.
+
+## 🛠️ Tech Journey
+
+Programming | Algorithms | Web Development | Software Engineering
+
+---
+
+"Small steps every day create extraordinary results."
